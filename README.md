@@ -9,6 +9,7 @@ all the machine learning papers which is very important in Computer Vision field
 
 2. Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)
 * 2014 v1, 2015 v6
+Citations (9994)
 * Karen Simonyan, Andrew Zisserman
 * https://arxiv.org/abs/1312.6229
 
